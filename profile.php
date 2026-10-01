@@ -1,7 +1,7 @@
 <?php 
 
 $pageTitle = 'Profil - Telkom University'; 
-// simulasi 2
+
 require 'includes/header.php'; 
 
 ?>
